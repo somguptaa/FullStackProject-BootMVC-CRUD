@@ -1,6 +1,5 @@
 ## In Progress
-- All Classes dev.done
-- Some Controllers Handler methods left
+- All Backend Logic done
 - Some Front-End left
     - welcome page done
     - home page done
